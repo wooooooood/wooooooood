@@ -7,8 +7,8 @@
  *   🌕   .    .   * ⭐️    *   . *
 ```
 
-- Likes: Movie, Books
-- Fun fact: FinTech, Personal Branding(LinkedIn), Lifehack
+- `Likes` Movies, Books
+- `Fun facts` FinTech, Personal Branding(LinkedIn), Lifehack
 
 <!--
 - 🔭 I’m currently working on ...
